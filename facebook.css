@@ -1,0 +1,165 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.back {
+    position: relative;
+    background-color: rgb(240, 242, 245);
+    height: 730px;
+}
+
+.lg {
+    margin-left: 10%;
+    font-size: 1.2vw;
+    color: grey;
+}
+
+h1 {
+    font-family: Helvetica Neue, sans-serif;
+    color: rgb(24, 119, 242);
+    font-size: 1.6cm;
+}
+
+p {
+    font-size: 0.73cm;
+}
+
+#sec {
+    font-size: 0.73cm;
+}
+
+.prm {
+    position: absolute;
+    padding-top: 15%;
+    margin-left: 11.6%;
+}
+
+.emlpw {
+    position: relative;
+    padding-top: 10.3%;
+    margin-left: 56.5%;
+}
+
+h6 {
+    margin-left: 30%;
+}
+
+hr {
+    width: 100%;
+    margin-left: 0;
+}
+
+#FP {
+    color: rgb(0, 153, 255);
+    text-decoration: none;
+}
+
+button {
+    font-size: 0.43cm;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(66, 183, 42);
+    margin-top: 12px;
+    width: 199px;
+    height: 48.8px;
+    margin-left: 22.5%;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(54, 164, 32);
+    transition: 0.4s;
+}
+
+#eml {
+    width: 100%;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 8px;
+    height: 53px;
+}
+
+#pw {
+    margin-top: -6px;
+    width: 100%;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 8px;
+    height: 52px;
+}
+
+#log {
+    margin-top: -1px;
+    font-size: 0.55cm;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    width: 100%;
+    height: 47px;
+    background-color: rgb(24, 140, 245);
+    margin-left: 0;
+}
+
+#log:hover {
+    cursor: pointer;
+    background-color: rgb(22, 111, 229);
+    transition: 0.4s;
+}
+
+form {
+    width: 395px;
+    height: 350px;
+    padding: 14px;
+    background-color: white;
+    border: white 1px solid;
+    box-shadow: 1px 2px 5px 1px rgb(201, 201, 201);
+    border-radius: 8px;
+}
+
+#eml:focus {
+    border-color: blue;
+}
+
+::placeholder {
+    font-size: 0.44cm;
+    position: absolute;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.lastt {
+    margin-left: 7.4%;
+    font-size: 1vw;
+}
+
+#tali {
+    margin-top: 8px;
+    margin-left: 10%;
+    width: 80%;
+}
+
+.links {
+    font-size: 0.4cm;
+    margin-left: 10%;
+}
+
+.links a {
+    color: rgb(146, 150, 156);
+}
+
+.lg a {
+    color: rgb(146, 150, 156);
+}
+
+#tt {
+    margin-left: 10%;
+    font-size: 0.3cm;
+    color: grey;
+}
